@@ -10,12 +10,13 @@
       "DOM.Iterable"
     ],
     "skipLibCheck": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
     "types": [
       "node"
     ],
-    "moduleResolution": "bundler",
     "isolatedModules": true,
-    "moduleDetection": "force",
+    "moduleDetection": "auto",
     "allowJs": true,
     "jsx": "react-jsx",
     "paths": {
