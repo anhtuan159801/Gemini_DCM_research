@@ -16,6 +16,10 @@
     "moduleResolution": "node",
     "isolatedModules": true,
     "moduleDetection": "auto",
+    "types": [
+      "node",
+      "vite/client"
+    ],
     "allowJs": true,
     "jsx": "react-jsx",
     "paths": {
