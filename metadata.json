@@ -1,0 +1,5 @@
+{
+  "name": "Phân tích Tài liệu Nghiên cứu",
+  "description": "Một công cụ sử dụng AI để phân tích và trích xuất những thông tin quan trọng từ các tài liệu nghiên cứu khoa học. Tải tài liệu lên để nhận tóm tắt, các phát hiện chính, và phân tích phương pháp luận.",
+  "requestFramePermissions": []
+}
